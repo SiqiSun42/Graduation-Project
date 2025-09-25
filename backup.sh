@@ -1,0 +1,1 @@
+cp -r /root/autodl-tmp/project /root/autodl-fs/
